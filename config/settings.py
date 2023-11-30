@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     # External apps
     "crispy_forms",
     "crispy_bootstrap5",
+    "rest_framework"
 
     # User apps
     'accounts.apps.AccountsConfig',
